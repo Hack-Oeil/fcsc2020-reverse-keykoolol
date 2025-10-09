@@ -9,9 +9,9 @@
 ░       ▒ ▒ ░░    ░░   ░  ░  ░░ ░  ░   ▒    ░ ░  ░    ░   ░  ░  ░  
 Bienvenue sur le serveur SSH de Cyrhades
 
-Utilisez netcat pour accéder au challenge sur le serveur keykoolol.cyrhades.com!
+Utilisez netcat pour accéder au challenge sur le serveur keykoolol.cyrhades.fr!
 
 
-*****:~$ nc keykoolol.cyrhades.com:4000
+*****:~$ nc keykoolol.cyrhades.fr:4000
 
 Bonne chance !
