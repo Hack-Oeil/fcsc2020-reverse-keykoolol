@@ -4,7 +4,7 @@ On vous demande d’écrire un générateur d’entrées valides pour ce binaire
 
 
 
-Auteur : [Cryptanalyse](https://twitter.com/Cryptanalyse)
+Auteur : [Cryptanalyse](https://x.com/Cryptanalyse)
 
 Origine : [keykoolol](https://hackropole.fr/fr/challenges/reverse/fcsc2020-reverse-keykoolol/)
 
